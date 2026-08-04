@@ -1,0 +1,24 @@
+Least flights least time:
+  Flight No: 0, From: 0 To: 1, Departure: 1, Arrival: 20, Fare: 20
+  Flight No: 2, From: 1 To: 3, Departure: 40, Arrival: 50, Fare: 40
+  Flight No: 7, From: 3 To: 4, Departure: 75, Arrival: 100, Fare: 20
+  Total Time: 100 (arrival time)
+  Total Fare: 80
+  Number of Flights: 3
+
+Least flights cheapest fare:
+  Flight No: 1, From: 0 To: 2, Departure: 1, Arrival: 10, Fare: 10
+  Flight No: 5, From: 2 To: 3, Departure: 30, Arrival: 50, Fare: 40
+  Flight No: 7, From: 3 To: 4, Departure: 75, Arrival: 100, Fare: 20
+  Total Time: 100 (arrival time)
+  Total Fare: 70
+  Number of Flights: 3
+
+Overall cheapest:
+  Flight No: 1, From: 0 To: 2, Departure: 1, Arrival: 10, Fare: 10
+  Flight No: 5, From: 2 To: 3, Departure: 30, Arrival: 50, Fare: 40
+  Flight No: 7, From: 3 To: 4, Departure: 75, Arrival: 100, Fare: 20
+  Total Time: 100 (arrival time)
+  Total Fare: 70
+  Number of Flights: 3
+
